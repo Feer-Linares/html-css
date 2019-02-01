@@ -1,0 +1,33 @@
+img{
+	max-width: 100%;
+}
+.quitar-float{
+	float: none;
+}
+.margen-arriba{
+	margin-top: 100px;
+}
+.sacramento{
+	font-family: 'Sacramento', cursive;
+	color: #08AE20;
+}
+.tam-grande{
+	font-size: 60px;
+}
+.sans{
+	font-family: 'Satisfy', cursive;font-family: 'Satisfy', cursive;;
+}
+.espacio-derecha{
+	margin-right: 2px;
+}
+a{
+	color: #4860F0;
+}
+.sin-vin{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.color-nav{
+	background-color: #eee;
+}
