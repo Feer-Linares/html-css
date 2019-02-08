@@ -5,7 +5,7 @@ img{
 	float: none;
 }
 .margen-arriba{
-	margin-top: 100px;
+	margin-top: 10px;
 }
 .sacramento{
 	font-family: 'Sacramento', cursive;
@@ -15,7 +15,8 @@ img{
 	font-size: 60px;
 }
 .sans{
-	font-family: 'Satisfy', cursive;font-family: 'Satisfy', cursive;;
+	font-family: 'Satisfy', cursive;
+	font-size: 45px;
 }
 .espacio-derecha{
 	margin-right: 2px;
@@ -23,11 +24,12 @@ img{
 a{
 	color: #4860F0;
 }
-.sin-vin{
+.sin-vin li{
 	list-style-type: none;
-	margin: 0px;
-	padding: 0px;
 }
-.color-nav{
-	background-color: #eee;
+.sin-vin{
+	margin: 0px;
+	padding: 0px; 
+}
+.pad{
 }
